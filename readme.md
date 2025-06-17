@@ -47,7 +47,7 @@ pip install google-generativeai
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/data-pattern-formatter.git
+git clone https://github.com/chamika1/data_formatter.git
 cd data-pattern-formatter
 ```
 
@@ -262,9 +262,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙋‍♂️ Support
 
-- 📧 **Email**: support@yourproject.com
-- 💬 **Issues**: [GitHub Issues](https://github.com/yourusername/data-pattern-formatter/issues)
-- 📖 **Documentation**: [Wiki](https://github.com/yourusername/data-pattern-formatter/wiki)
+- 📧 **Email**: rasanjanachamika@gmail.com
+- 📖 **Documentation**: [Doc](https://github.com/chamika1/data_formatter/readme)
 
 ## ⭐ Acknowledgments
 
@@ -278,7 +277,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for data professionals**
 
-[![Stars](https://img.shields.io/github/stars/yourusername/data-pattern-formatter?style=social)](https://github.com/yourusername/data-pattern-formatter/stargazers)
-[![Forks](https://img.shields.io/github/forks/yourusername/data-pattern-formatter?style=social)](https://github.com/yourusername/data-pattern-formatter/network/members)
+[![Stars](https://img.shields.io/github/stars/yourusername/data-pattern-formatter?style=social)](https://github.com/chamika1/data_formatter/stargazers)
+[![Forks](https://img.shields.io/github/forks/yourusername/data-pattern-formatter?style=social)](https://github.com/chamika1/data_formatter/network/members)
 
 </div>
